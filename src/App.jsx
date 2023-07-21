@@ -1,11 +1,11 @@
 import './App.css'
+import Feeds from './components/Feeds'
 
 function App() {
   return (
-    <>
-      <div>
-      </div>
-    </>
+    <div className="App">
+      <Feeds />
+    </div>
   )
 }
 
