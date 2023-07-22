@@ -1,4 +1,5 @@
 import './App.css'
+import react from 
 import Feeds from './components/Feeds'
 
 function App() {
